@@ -45,11 +45,13 @@ The above visualizations seem typical of a major metropolitan area.
 There were two observations that caught my eye: the usage spike by   
 customers born in 1968 and the lack of a usage spike on Wednesday  
 evenings.  
-![Summary_Wednesday](https://user-images.githubusercontent.com/91306342/156323939-e1ae87e1-9311-44fb-acbf-bfa8c38a9e19.PNG)  
+
+![Summary_Wednesday](https://user-images.githubusercontent.com/91306342/156326060-d497d10b-75cf-49b1-a0c7-db88a7d7cdf8.PNG)
 
 When viewing a more granular chart of Age and birth year, it becomes  
 apparent there is likely bad data the further back the birth year, as  
 it is unlikely there are so many users aged 80+ and even 100+. The spike  
 in 1968 still needs to be further investigated.  
+
 ![Trip_Duration_by_Age_Summary](https://user-images.githubusercontent.com/91306342/156324787-dddae53c-5a63-4211-b62a-db3bfb584738.PNG)
 
