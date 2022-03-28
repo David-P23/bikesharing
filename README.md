@@ -1,7 +1,7 @@
 # NYC_Citibike_Challenge
 
 ## Overview  
-Rentable "Citi Bikes" have been deployed in New York. The porpose of this analysis  
+Rentable "Citi Bikes" have been deployed in New York. The purpose of this analysis  
 is to explore the data to determine the viability of this same system in Des Moines.  
 Tableau, Puthon, and Jupyter will be used to visualize the data using various  
 methods below.  
