@@ -48,7 +48,7 @@ evenings.
 
 ![Summary_Wednesday](https://user-images.githubusercontent.com/91306342/156326060-d497d10b-75cf-49b1-a0c7-db88a7d7cdf8.PNG)
 
-When viewing a more granular chart of Age and birth year, it becomes  
+When viewing a more granular chart of Avg Trip Duration and birth year, it becomes  
 apparent there is likely bad data the further back the birth year, as  
 it is unlikely there are so many users aged 80+ and even 100+. The spike  
 in 1968 still needs to be further investigated.  
